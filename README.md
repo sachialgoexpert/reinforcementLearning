@@ -164,11 +164,11 @@ Below is a recording of the trained DQN agent balancing the pole.
 **Video demonstration**
 
 ```
-videos/rl-video-episode-0.mp4
+ipynb/videos/rl-video-episode-0.mp4
 ```
 ## Demo
 
-[![CartPole DQN Demo](videos/cartpole_preview.gif)](videos/rl-video-episode-0.mp4)
+[![CartPole DQN Demo](videos/cartpole_preview.gif)](ipynb/videos/cartpole_demo.gif)
 
 After training, the agent typically achieves:
 
